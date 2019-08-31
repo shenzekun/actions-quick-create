@@ -2,7 +2,7 @@
 	"name": "actions-quick-create",
 	"displayName": "actions-quick-create",
 	"description": "action 模板快速生成",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"engines": {
 		"vscode": "^1.37.0"
 	},
