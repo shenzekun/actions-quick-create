@@ -3,7 +3,7 @@
 
 ## Features
 
-选中文本 sadadada，command + shift + p 输入 actions-quick-create 会出现：
+随便选中文本比如sadadada，command + shift + p 输入 actions-quick-create 会出现：
 
 ```javascript
 export const SADADADA_REQUEST = 'SADADADA_REQUEST';
