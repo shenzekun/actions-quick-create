@@ -1,5 +1,5 @@
 # actions-quick-create README
-快速生成 action 模板
+快速生成 action 模板, 写这个的插件的原因是每次写 action 常量就需要写很多一样后面加SADADADA_REQUEST，_REQUEST_SUCCESS,_REQUEST_FAIL的变量，考虑想提高一些效率，就写了这个插件。
 
 ## Features
 
